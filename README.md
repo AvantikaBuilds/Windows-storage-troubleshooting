@@ -23,7 +23,7 @@ My C: drive was down to **17.8 GB free out of 220 GB**. Instead of mass-uninstal
 ## Skills demonstrated
 `Windows Storage Management` `Dependency Auditing` `Safe Uninstall Practices` `SQL Server` `Root-Cause Troubleshooting`
 
-📄 **[Full troubleshooting log →](docs/troubleshooting-log.md)** — every decision, and the reasoning behind it
+📄 **[Full troubleshooting log →](troubleshooting-log.md)** — every decision, and the reasoning behind it
 
 ## Screenshots
 ![before](s)
